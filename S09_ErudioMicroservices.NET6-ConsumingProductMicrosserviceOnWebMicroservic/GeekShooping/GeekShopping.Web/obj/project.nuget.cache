@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PzooYVjBZsZ5rcjy02V7LQ7bpb4tM1DGVoSOII/SX2/uiaDj77+HUKpOt4BV0E73uBnsCl5LpZkMMalOp/BROA==",
+  "dgSpecHash": "6XQiPvL2NYfiWwOpHYC2/WLx5Y+0kqT2RzlEXYhERK+bSBqxovPgLHeTbbwyo+h1lGgktyGiBfzQFi7+xBGALg==",
   "success": true,
-  "projectFilePath": "J:\\Code\\erudio-microservices-dotnet6\\S08_ErudioMicroservices.NET6-OrganizeTheFirstMicrosservicesArchitecture\\GeekShooping\\GeekShopping.Web\\GeekShopping.Web.csproj",
+  "projectFilePath": "J:\\Code\\erudio-microservices-dotnet6\\S09_ErudioMicroservices.NET6-ConsumingProductMicrosserviceOnWebMicroservic\\GeekShooping\\GeekShopping.Web\\GeekShopping.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\flbia\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\6.0.1\\microsoft.aspnetcore.mvc.razor.extensions.6.0.1.nupkg.sha512",
     "C:\\Users\\flbia\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\6.0.1\\microsoft.aspnetcore.mvc.razor.runtimecompilation.6.0.1.nupkg.sha512",
