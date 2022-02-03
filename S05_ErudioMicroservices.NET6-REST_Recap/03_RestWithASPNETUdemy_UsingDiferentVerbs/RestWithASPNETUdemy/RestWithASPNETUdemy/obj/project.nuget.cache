@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YWzoPd8MnfEh/cMyx6czWRZ0jQoqvIcKaGBph0usLZ1mBTf3lmBRnVDbuHId/2WZ3txvLeICUnffbRGc2oioSg==",
+  "success": true,
+  "projectFilePath": "J:\\Code\\erudio-microservices-dotnet6\\03_RestWithASPNETUdemy_UsingDiferentVerbs\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\flbia\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
