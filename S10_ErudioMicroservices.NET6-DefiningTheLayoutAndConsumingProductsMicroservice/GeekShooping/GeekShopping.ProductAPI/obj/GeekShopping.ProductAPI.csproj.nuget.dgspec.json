@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "J:\\Code\\erudio-microservices-dotnet6\\S09_ErudioMicroservices.NET6-ConsumingProductMicrosserviceOnWebMicroservic\\GeekShooping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj": {}
+    "J:\\Code\\erudio-microservices-dotnet6\\S10_ErudioMicroservices.NET6-DefiningTheLayoutAndConsumingProductsMicroservice\\GeekShooping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj": {}
   },
   "projects": {
-    "J:\\Code\\erudio-microservices-dotnet6\\S09_ErudioMicroservices.NET6-ConsumingProductMicrosserviceOnWebMicroservic\\GeekShooping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj": {
+    "J:\\Code\\erudio-microservices-dotnet6\\S10_ErudioMicroservices.NET6-DefiningTheLayoutAndConsumingProductsMicroservice\\GeekShooping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "J:\\Code\\erudio-microservices-dotnet6\\S09_ErudioMicroservices.NET6-ConsumingProductMicrosserviceOnWebMicroservic\\GeekShooping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj",
+        "projectUniqueName": "J:\\Code\\erudio-microservices-dotnet6\\S10_ErudioMicroservices.NET6-DefiningTheLayoutAndConsumingProductsMicroservice\\GeekShooping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj",
         "projectName": "GeekShopping.ProductAPI",
-        "projectPath": "J:\\Code\\erudio-microservices-dotnet6\\S09_ErudioMicroservices.NET6-ConsumingProductMicrosserviceOnWebMicroservic\\GeekShooping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj",
+        "projectPath": "J:\\Code\\erudio-microservices-dotnet6\\S10_ErudioMicroservices.NET6-DefiningTheLayoutAndConsumingProductsMicroservice\\GeekShooping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj",
         "packagesPath": "C:\\Users\\flbia\\.nuget\\packages\\",
-        "outputPath": "J:\\Code\\erudio-microservices-dotnet6\\S09_ErudioMicroservices.NET6-ConsumingProductMicrosserviceOnWebMicroservic\\GeekShooping\\GeekShopping.ProductAPI\\obj\\",
+        "outputPath": "J:\\Code\\erudio-microservices-dotnet6\\S10_ErudioMicroservices.NET6-DefiningTheLayoutAndConsumingProductsMicroservice\\GeekShooping\\GeekShopping.ProductAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
